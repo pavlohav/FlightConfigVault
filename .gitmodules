@@ -1,0 +1,3 @@
+[submodule "esk8/FlexiBMS_Lite_FW"]
+	path = esk8/FlexiBMS_Lite_FW
+	url = git@github.com:SimosMCmuffin/FlexiBMS_Lite_FW.git
